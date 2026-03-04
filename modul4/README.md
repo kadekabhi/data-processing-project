@@ -1,0 +1,1 @@
+ini merupakan pelatihan saya mengolah data tidak terstruktur melalui jupyter notebook dan deteksi wajah 
