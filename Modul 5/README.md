@@ -1,0 +1,1 @@
+Saya mempelajari pemahaman tentang Text Mining
